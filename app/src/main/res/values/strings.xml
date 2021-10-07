@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CALCULATOR</string>
+    <string name="result">RESULT :</string>
+    <string name="todo1">todom</string>
+    <string name="number1">0</string>
+    <string name="number2">0</string>
+</resources>
